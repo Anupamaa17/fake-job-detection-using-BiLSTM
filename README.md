@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/fb17d82e-a6af-4513-8abc-968156f9b170
+**URL**: https://scan-job-shield.lovable.app/
 
 ## How can I edit this code?
 
